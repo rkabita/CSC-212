@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rezwanakabita/Desktop/CSC 21200/Assignment3 (1)/sequence2.cpp
+sequence2.h
+/Users/rezwanakabita/Desktop/CSC 21200/Assignment3 (1)/sequence2.h
+assert.h
+/Users/rezwanakabita/Desktop/CSC 21200/Assignment3 (1)/assert.h
+algorithm
+-
+iostream
+-
+
+/Users/rezwanakabita/Desktop/CSC 21200/Assignment3 (1)/sequence2.h
+cstdlib
+-
+
