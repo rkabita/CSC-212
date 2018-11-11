@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rezwanakabita/Desktop/Assignment4/node1.h
+cstdlib
+-
+
+/Users/rezwanakabita/Desktop/Assignment4/sequence3.cpp
+sequence3.h
+/Users/rezwanakabita/Desktop/Assignment4/sequence3.h
+cstdlib
+-
+cassert
+-
+
+/Users/rezwanakabita/Desktop/Assignment4/sequence3.h
+cstdlib
+-
+node1.h
+/Users/rezwanakabita/Desktop/Assignment4/node1.h
+
